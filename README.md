@@ -6,6 +6,8 @@ A simple python interface to access and control an aquaero.
 Install
 -------
 
+Depends on the [hid](https://github.com/trezor/cython-hidapi) module.
+
 Clone this repo, import the `aquaero` module.
 
 Compatibility
